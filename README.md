@@ -1,4 +1,4 @@
-# IB Mathematics: Technology-Enhanced Problem-Based Learning Tasks
+# IB Mathematics: Flipped Exploration and Mathematical Modeling Tasks
 
 This repository includes supplementary files for the article:  
 **"Innovative Pedagogical Practices in IB Mathematics Classrooms: Technology, Modeling and Critical Thinking"**  
