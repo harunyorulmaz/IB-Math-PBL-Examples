@@ -23,7 +23,7 @@ Submitted to *Research in Teaching and Learning (RTL)*.
 
 ## 📌 Citation
 If you use or adapt any materials, please cite as:  
-**Yorulmaz, H. (2025).** _Innovative Pedagogical Practices in IB Mathematics Classrooms._ Research in Teaching and Learning (submitted).
+**Yorulmaz, H. (2025).** _Technology-Enhanced IB Mathematics: A Framework for Integrating Digital Pedagogies with Global Best Practices._ Research in Teaching and Learning (submitted).
 
 ## 🔗 DOI
 A permanent DOI will be assigned upon Zenodo publication.
