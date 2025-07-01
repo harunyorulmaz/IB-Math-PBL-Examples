@@ -27,3 +27,7 @@ If you use or adapt any materials, please cite as:
 
 ## 🔗 DOI
 A permanent DOI will be assigned upon Zenodo publication.
+
+## Zenodo DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15782267.svg)](https://doi.org/10.5281/zenodo.15782267)
+
